@@ -1,0 +1,8 @@
+MCU-SAMD21J18 1.1.0 - 2021.06.03
+
+* Added support for ArduinoCore 1.8.11
+* Fixed clock issue of ArduinoCore 1.8.11 with SPIMemory
+
+MCU-SAMD21J18 1.0.0 - 2019.09.05
+
+* Initial release
