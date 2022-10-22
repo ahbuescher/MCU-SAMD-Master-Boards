@@ -1,0 +1,164 @@
+{
+  "packages": 
+  [
+    {
+      "name": "MCU-SAMD",
+      "maintainer": "AHB MCU-SAMD xMaster",
+      "websiteURL": "https://github.com/ahbuescher/MCU-SAMD-xMaster",
+      "email" : "hbcruiser537@icloud.com",
+      "help": {
+        "online": "https://github.com/ahbuescher/MCU-SAMD-xMaster"
+      },
+      "platforms":
+      [
+        {
+          "name": "MCU-SAMD xMaster",
+          "architecture": "samd",
+          "version": "1.1.1",
+          "category": "Contributed",
+          "url": "https://ahbuescher.github.io/MCU-SAMD-xMaster/samd21j18-x2-1.1.1.zip",
+          "archiveFileName": "samd21j18-x2-1.1.1.zip",
+          "checksum": "SHA-256:f227d8b3ab9cdaf6de0e5985c88ae1e742b95d6e78b6ac276abc73ad11db80d6",
+          "size": "1683120",
+          "boards": [
+            { 
+              "name": "MCU-SAMD21J18-X2"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "MCU-SAMD xMaster",
+          "architecture": "samd",
+          "version": "1.1.0",
+          "category": "Contributed",
+          "url": "https://ahbuescher.github.io/MCU-SAMD-xMaster/samd21j18-x2-1.1.0.zip",
+          "archiveFileName": "samd21j18-x2-1.1.0.zip",
+          "checksum": "SHA-256:f1d750a8c7535afd4a0e410da0e4c259f8d2cd22e1eb230ff72c699ca9c763c8",
+          "size": "1686543",
+          "boards": [
+            { 
+              "name": "MCU-SAMD21J18-X2"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "MCU-SAMD xMaster",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://ahbuescher.github.io/MCU-SAMD-xMaster/samd21j18-x2-1.0.0.zip",
+          "archiveFileName": "samd21j18-x2-1.0.0.zip",
+          "checksum": "SHA-256:f47de10bb76a8b1ee81147f62988374033962d60e4d5f6d1783b98f49a510df3",
+          "size": "1686543",
+          "boards": [
+            { 
+              "name": "MCU-SAMD21J18-X2"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            },
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
