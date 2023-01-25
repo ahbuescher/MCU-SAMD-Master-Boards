@@ -1,0 +1,18 @@
+MCU-SAMD21J18 1.1.1-.2 - 2023.01.25
+
+* Header redefined
+* new SERCOM definition
+  Sercom1 - SPI
+  Sercom2 - I2C
+  Sercom3 - Serial1
+  Sercom4 - UART HCI/SPI
+  Sercom5 - UART Serial2
+
+MCU-SAMD21J18 1.1.0 - 2021.06.03
+
+* Added support for ArduinoCore 1.8.11
+* Fixed clock issue of ArduinoCore 1.8.11 with SPIMemory
+
+MCU-SAMD21J18 1.0.0 - 2019.09.05
+
+* Initial release
